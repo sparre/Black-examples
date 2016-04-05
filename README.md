@@ -46,13 +46,12 @@ Links
 
 If you want to find free Ada tools or libraries AdaIC [6] is an excellent
 starting point.  You can also take a look at the other source text
-repositories belonging to AdaHeads K/S [7] or those belonging to Jacob
-Sparre Andersen [8].
+repositories belonging to Jacob Sparre Andersen [7].
 
 1. Source text repository:
-   https://github.com/AdaHeads/Black-examples
+   https://github.com/sparre/Black-examples
 2. Black:
-   https://github.com/AdaHeads/Black
+   https://github.com/sparre/Black
 3. Ahven:
    http://www.ahven-framework.org/
 4. GNAT:
@@ -61,8 +60,6 @@ Sparre Andersen [8].
    https://github.com/AdaHeads/libesl
 6. Free Ada Tools and Libraries:
    http://www.adaic.org/ada-resources/tools-libraries/
-7. Our repositories on GitHub:
-   https://github.com/AdaHeads
-8. Jacob Sparre Andersen's repositories on Bitbucket:
+7. Jacob Sparre Andersen's repositories on Bitbucket:
    http://repositories.jacob-sparre.dk/
 
